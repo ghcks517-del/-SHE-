@@ -1,0 +1,6 @@
+{
+  "name": "한화모멘텀 창원사업장 SHE",
+  "description": "한화모멘텀 창원사업장 통합 안전·보건·환경(SHE) 포털 — AED 점검, SHE오스크, 안전물품 관리 시스템 연동 및 현장 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
